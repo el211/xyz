@@ -1,0 +1,7 @@
+name: xyz
+version: 1.0
+main: com.example.xyzplugin.XYZPlugin
+commands:
+  xyz:
+    description: Display player coordinates
+    usage: /xyz
